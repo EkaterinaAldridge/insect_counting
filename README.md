@@ -1,5 +1,5 @@
 
-## YOLOV7：You Only Look Once目标检测模型在tf2当中的实现
+## 基于虫情测报仪的昆虫计数项目
 
 ## 所需环境
 tensorflow-gpu==2.2.0
